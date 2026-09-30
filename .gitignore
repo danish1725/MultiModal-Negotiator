@@ -1,0 +1,29 @@
+# Environment variables and secrets
+.env
+*.env
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large binary model checkpoints
+*.zip
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local HuggingFace cache
+.cache/

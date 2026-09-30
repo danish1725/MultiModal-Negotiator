@@ -1,0 +1,22 @@
+# Core Reinforcement Learning & Simulation
+gymnasium
+stable-baselines3
+numpy
+pandas
+
+# Deep Learning & Vision/Text Transformers
+torch
+transformers
+
+# Web Application & Real-time WebRTC
+streamlit
+streamlit-webrtc
+opencv-python-headless
+av
+plotly
+
+# Generative AI & Parsing
+google-generativeai
+python-dotenv
+beautifulsoup4
+requests
